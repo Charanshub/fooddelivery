@@ -1,2 +1,1 @@
-# No external dependencies required for basic functionality
-# This app uses only Python standard library
+Flask==2.3.3
